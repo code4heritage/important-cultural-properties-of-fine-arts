@@ -14,8 +14,8 @@
     "publisher": "文化庁",
     "url": "https://kunishitei.bunka.go.jp/",
     "terms_url": "https://kunishitei.bunka.go.jp/top/policy",
-    "accessed_date": "2026-10-12",
-    "attribution": "出典：「国指定文化財等データベース」（文化庁）\n（https://kunishitei.bunka.go.jp/）（2026年10月12日に利用）\n上記を加工して作成"
+    "accessed_date": "2026-10-26",
+    "attribution": "出典：「国指定文化財等データベース」（文化庁）\n（https://kunishitei.bunka.go.jp/）（2026年10月26日に利用）\n上記を加工して作成"
   },
   "generator": {
     "name": "heritage-crawler",
@@ -24,7 +24,7 @@
   "counts": {
     "records": 10557,
     "files": 48,
-    "with_coordinates": 3935
+    "with_coordinates": 3936
   },
   "labels": {
     "ledger_id": "台帳ID",
@@ -102,11 +102,11 @@
     "national_treasure_date": 1,
     "added_date": 81,
     "prefecture": 10469,
-    "address": 3935,
-    "latitude": 3935,
-    "longitude": 3935,
-    "storage_facility": 3821,
-    "owner": 10104,
+    "address": 3936,
+    "latitude": 3936,
+    "longitude": 3936,
+    "storage_facility": 3822,
+    "owner": 10105,
     "custodian": 439,
     "description": 10267,
     "detailed_description": 773,
