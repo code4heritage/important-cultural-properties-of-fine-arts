@@ -14,8 +14,8 @@
     "publisher": "文化庁",
     "url": "https://kunishitei.bunka.go.jp/",
     "terms_url": "https://kunishitei.bunka.go.jp/top/policy",
-    "accessed_date": "2026-10-26",
-    "attribution": "出典：「国指定文化財等データベース」（文化庁）\n（https://kunishitei.bunka.go.jp/）（2026年10月26日に利用）\n上記を加工して作成"
+    "accessed_date": "2026-11-16",
+    "attribution": "出典：「国指定文化財等データベース」（文化庁）\n（https://kunishitei.bunka.go.jp/）（2026年11月16日に利用）\n上記を加工して作成"
   },
   "generator": {
     "name": "heritage-crawler",
@@ -24,7 +24,7 @@
   "counts": {
     "records": 10557,
     "files": 48,
-    "with_coordinates": 3936
+    "with_coordinates": 3938
   },
   "labels": {
     "ledger_id": "台帳ID",
@@ -102,11 +102,11 @@
     "national_treasure_date": 1,
     "added_date": 81,
     "prefecture": 10469,
-    "address": 3936,
-    "latitude": 3936,
-    "longitude": 3936,
-    "storage_facility": 3822,
-    "owner": 10105,
+    "address": 3937,
+    "latitude": 3938,
+    "longitude": 3938,
+    "storage_facility": 3823,
+    "owner": 10106,
     "custodian": 439,
     "description": 10267,
     "detailed_description": 773,
@@ -400,8 +400,8 @@
       "（胴丸）室町 （兜鉢）鎌倉": 1
     },
     "prefecture": {
-      "京都府": 2245,
-      "東京都": 1900,
+      "京都府": 2246,
+      "東京都": 1899,
       "奈良県": 1133,
       "滋賀県": 643,
       "大阪府": 520,
@@ -532,7 +532,7 @@
       "path": "data/13_tokyo.jsonl",
       "area_code": "13",
       "area_name": "東京都",
-      "records": 1900
+      "records": 1899
     },
     {
       "path": "data/14_kanagawa.jsonl",
@@ -610,7 +610,7 @@
       "path": "data/26_kyoto.jsonl",
       "area_code": "26",
       "area_name": "京都府",
-      "records": 2245
+      "records": 2246
     },
     {
       "path": "data/27_osaka.jsonl",
